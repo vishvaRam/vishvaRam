@@ -5,7 +5,7 @@ Passionate and driven AI Engineer with 1 year of hands-on experience in building
 
 * **Generative AI:** LangChain, Retrieval-Augmented Generation (RAG)
 * **Large Language Models (LLMs):** [Specify LLMs you are familiar with, e.g., Llama 3.2, Qwen2.5, Deepseek-R1, etc.]
-* **LLM Inference Optimization:** vLLM, Ollama
+* **LLM Inference Optimization:** vLLM, Ollama, Langhain
 * **Containerization & Deployment:** Docker
 * **Programming Languages:** Python
 
