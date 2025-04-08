@@ -1,6 +1,9 @@
-# 💫 About Me - Generative AI Engineer:
-Passionate and driven AI Engineer with 1 year of hands-on experience in building and deploying cutting-edge Generative AI solutions. Proficient in the entire lifecycle of AI projects, from development to deployment and maintenance.<br>
+## 💫 About Me - Generative AI Engineer:
 
+<img align="right" height="120" style="margin-left: 15px;" src="https://huggingface.co/spaces/prithivMLmods/Top-Prompt-Collection/resolve/main/cc.gif" />
+
+A **highly passionate** and **results-oriented AI Engineer** specializing in **Generative AI**. With **1 year of hands-on experience**, 
+I excel in the complete AI project lifecycle: from innovative **development** to seamless **deployment** and ongoing **maintenance**.
 ## 🚀 Key Skills:
 
 * **Generative AI:** LangChain, Retrieval-Augmented Generation (RAG)
