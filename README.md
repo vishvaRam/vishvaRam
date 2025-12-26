@@ -30,6 +30,16 @@ With **1.8 years of hands-on experience** across the full AI project lifecycle, 
 
 ---
 
+## 🌍 Open Source
+
+- 🧠 **LightRAG Contributor**
+  - Added a **Google Gemini-based demo**
+  - Covers **Naive, Local, Global, and Hybrid** retrieval modes
+  - Merged upstream into main branch  
+  🔗 https://github.com/HKUDS/LightRAG/pull/2538
+
+---
+
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishva-r)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/justt_vishva)
