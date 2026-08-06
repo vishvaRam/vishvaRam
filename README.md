@@ -71,10 +71,14 @@ I am a **Generative AI Engineer** with 2.5 years of production experience archit
 
 ## 📊 GitHub Performance
 
-![](https://github-readme-stats.vercel.app/api?username=vishvaRam&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=vishvaRam&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishvaRam&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishvaRam&theme=dark&show_icons=true&hide_border=true" alt="Vishva's GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishvaRam&theme=dark&hide_border=true" alt="Vishva's GitHub Streak" width="49%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vishvaRam&theme=dark&layout=compact&hide_border=true" alt="Top Languages" width="60%" />
+</p>
 ---
 
 ## 🌍 Connect
