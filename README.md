@@ -24,8 +24,8 @@ I am a **Generative AI Engineer** with 2.5 years of production experience archit
 * **High-Throughput Serving:** Production multi-GPU deployment via **vLLM**, cutting P95 latency by 50%.
 
 ### 📚 Agentic RAG & Graph Engineering
-* **Hybrid Retrieval:** Orchestrating BM25, semantic vector search, and Reciprocal Rank Fusion (RRF) in Qdrant and OpenSearch.
-* **Graph-RAG Architectures:** Implementing **LightRAG** and property graph strategies using OpenSearch for dual-level knowledge extraction.
+* **Hybrid Retrieval:** Orchestrating BM25, semantic vector search, and Reciprocal Rank Fusion (RRF) in Qdrant and Neo4j.
+* **Graph-RAG Architectures:** Implementing **LightRAG** and property graph strategies using Qdrant and Neo4j for dual-level knowledge extraction.
 * **Observability & Evals:** Production tracing, prompt evaluation, and hallucination tracking with **Langfuse** and **Ragas**.
 
 ### ⛓️ Agentic Workflows & Vision-Language AI
@@ -36,7 +36,7 @@ I am a **Generative AI Engineer** with 2.5 years of production experience archit
 
 ## 🚀 Key Projects
 
-* **Agentic LightRAG for Executive Audit Review:** Built a LangGraph multi-agent loop with LightRAG and OpenSearch acting as a document, vector, and property graph store for long-form audit analysis.
+* **Agentic LightRAG for Executive Audit Review:** Built a LangGraph multi-agent loop with LightRAG, Qdrant and Neo4j acting as a document, vector, and property graph store for long-form audit analysis.
 * **Agentic Hybrid RAG for Regulatory Compliance:** Engineered a self-healing RAG platform in Qdrant with BM25 + Vector RRF search, intercepting DB exceptions for auto-correction and 99.9% uptime.
 * **AI-Driven vKYC Automation System:** Built an end-to-end multimodal pipeline featuring YOLOv12 object detection, Whisper ASR, and FastAPI to streamline document and audio verification.
 
@@ -63,7 +63,7 @@ I am a **Generative AI Engineer** with 2.5 years of production experience archit
 | :--- | :--- |
 | **GenAI & Agents** | LangGraph, LangChain, LightRAG, Ragas, Langfuse |
 | **Fine-Tuning & Quant** | **vLLM**, **AutoRound**, QLoRA, PEFT, Unsloth, Hugging Face |
-| **Vector DBs & Search** | Qdrant, OpenSearch, Graph-RAG, BM25 + Semantic (RRF) |
+| **Vector DBs & Search** | Qdrant, Neo4j, Graph-RAG, BM25 + Semantic (RRF) |
 | **Multimodal & CV** | YOLOv12, Whisper ASR, OpenCV, PyTorch, CUDA |
 | **Backend & Cloud** | Python, FastAPI, Docker, AWS (EC2, ECS, ECR, S3), RunPod |
 
