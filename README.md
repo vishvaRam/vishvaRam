@@ -82,13 +82,12 @@ Browse all quantized model families and checkpoints in my **[Hugging Face Collec
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishvaRam&theme=dark&show_icons=true&hide_border=true" alt="Vishva's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishvaRam&theme=dark&hide_border=true" alt="Vishva's GitHub Streak" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishvaRam&theme=github_dark" alt="Vishva's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=vishvaRam&theme=dark&hide_border=true&background=0D1117" alt="Vishva's GitHub Streak" width="49%" />
   <br />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vishvaRam&theme=dark&layout=compact&hide_border=true" alt="Top Languages" width="55%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishvaRam&theme=github_dark" alt="Top Languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishvaRam&theme=github_dark" alt="Most Commit Language" width="49%" />
 </div>
-
----
 
 <div align="center">
 
